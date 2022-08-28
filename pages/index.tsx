@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="/facebook.com/hohoangphi0401">Hồ Hoàng Phi</a>
+          Welcome to <a href="/facebook.com/hohoangphi0401">Hello Im Phi</a>
         </h1>
 
         <p className={styles.description}>
